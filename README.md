@@ -2,7 +2,7 @@
 Aks-azure-k8s-app-python-redis
 
 __Pré-requesitos:__
-> Estar com as credenciais da sua conta exportadas no seu ambiente
+> Estar com as credenciais da sua conta exportadas no seu ambiente.
 
 > Resumo deste cenario pode ser visto seguindo os links abaixo:
 
