@@ -8,4 +8,7 @@ aks-azure-k8s-app-python-redis
   *parte 02) http://bit.ly/3oO4Tvx
   *parte 03) https://bit.ly/36HQElT
   
- 
+ First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
